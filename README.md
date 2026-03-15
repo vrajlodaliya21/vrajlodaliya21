@@ -1,11 +1,12 @@
 # 👋 About Me
 
-I am a **Computer Applications student** at Veer Narmad South Gujarat University, based in **Surat, Gujarat**. I’m passionate about building the bridge between clean user interfaces and powerful back-end logic.
+I'm a **Developer** based in **Surat, Gujarat**. I’m passionate about building efficient and scalable applications that connect strong back-end logic with practical real-world solutions.
 
 ## 🚀 What I'm Working On
-* **Full-Stack Development:** Mastered the art of connecting **Java/Spring Boot** and **PHP** with **MySQL** to create dynamic applications.
-* **Data Analysis:** Leveraging **Python** to turn raw data into actionable insights.
-* **Software Architecture:** Currently focused on building secure systems, including my recent project involving **Admin and Patient management portals**.
+* **Back-End Development:** Building robust server-side applications using **Java** and **Node.js** to create reliable APIs and systems.
+* **Database Management:** Designing and optimizing databases with **SQL** to ensure efficient data storage and retrieval.
+* **Full-Stack Projects:** Developing applications that integrate **backend services, databases, and user interfaces** to deliver complete solutions.
+* **System Design:** Exploring scalable architectures and improving application performance through better design practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vraj.2176) 
