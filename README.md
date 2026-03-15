@@ -5,8 +5,6 @@ I'm a **Developer** based in **Surat, Gujarat**. I’m passionate about building
 ## 🚀 What I'm Working On
 * **Back-End Development:** Building robust server-side applications using **Java** and **Node.js** to create reliable APIs and systems.
 * **Database Management:** Designing and optimizing databases with **SQL** to ensure efficient data storage and retrieval.
-* **Full-Stack Projects:** Developing applications that integrate **backend services, databases, and user interfaces** to deliver complete solutions.
-* **System Design:** Exploring scalable architectures and improving application performance through better design practices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vraj.2176) 
